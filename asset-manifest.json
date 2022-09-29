@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HalynaStep/react-hw-02-feedback.git/static/css/main.7acaea2f.css",
-    "main.js": "/HalynaStep/react-hw-02-feedback.git/static/js/main.07d3183d.js",
+    "main.js": "/HalynaStep/react-hw-02-feedback.git/static/js/main.523ba430.js",
     "index.html": "/HalynaStep/react-hw-02-feedback.git/index.html",
     "main.7acaea2f.css.map": "/HalynaStep/react-hw-02-feedback.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/HalynaStep/react-hw-02-feedback.git/static/js/main.07d3183d.js.map"
+    "main.523ba430.js.map": "/HalynaStep/react-hw-02-feedback.git/static/js/main.523ba430.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.523ba430.js"
   ]
 }
