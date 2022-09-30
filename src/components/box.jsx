@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import {
+  flexbox,
   typography,
   space,
   color,
@@ -11,6 +12,7 @@ import {
 } from 'styled-system';
 
 export const Box = styled('div')(
+  flexbox,
   typography,
   space,
   color,

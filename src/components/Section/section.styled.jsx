@@ -14,7 +14,6 @@ export const Title = styled.h2`
 
 export const Text = styled.p`
   padding: ${p => p.theme.space[3]}px;
-  width: 80px;
   text-align: center;
   font-size: ${p => p.theme.fontSizes.m};
   font-family: ${p => p.theme.fonts.heading};
