@@ -1,6 +1,11 @@
+import { Box } from 'components/box';
+import { Title } from './section.styled';
+
 export const Section = ({ title, children }) => (
-        <section>
-            {title && <h2>{title}</h2>}
-            {children}
-        </section>
+  <Box py={4} mx="auto" color="accent" width="600px" us="section">
+    {title && <Title>{title}</Title>}
+    <Box mx="auto" display="flex" width="550px">
+      {children}
+    </Box>
+  </Box>
 );
